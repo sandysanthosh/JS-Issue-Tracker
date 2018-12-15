@@ -1,7 +1,14 @@
 # JSIssueTracker
 JS Issue Tracker application
 
+->This application contains basics 
+          -> Javascript
+          -> Bootstrap
+          -> ChanceJS
 
+->ChanceJS:
+        Random code generator
+    
 ->Json local storage:
 
     var names=["santhosh","ranjith","yogi","rahul"];
